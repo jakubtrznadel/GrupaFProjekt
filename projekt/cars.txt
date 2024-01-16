@@ -1,0 +1,22 @@
+Honda;Civic;Red;Sedan;2000;Petrol;115;150000;true;Manual;FWD;HON78901234567890;25000;Poland;ABC-A1234;null
+Toyota;Corolla;Blue;Sedan;1998;Petrol;105;180000;false;Automatic;FWD;JH4KA8260RC001337;20000;Poland;DEF-B5678;#022
+BMW;3 Series;Black;Sedan;2005;Petrol;190;120000;false;Automatic;RWD;1GCEK19V6RE123456;35000;Poland;GHI-C9012;null
+Ford;F-150;White;Pickup;2003;Petrol;260;140000;false;Automatic;4WD;WP0ZZZ99ZTS392124;30000;Poland;JKL-D3456;null
+Volkswagen;Jetta;Silver;Sedan;1995;Petrol;120;200000;true;Manual;FWD;5TDZK22C38S123456;18000;Germany;none;null
+Mercedes-Benz;E-Class;Grey;Sedan;1999;Diesel;180;220000;false;Automatic;RWD;4T1BG22K3VU123456;22000;Poland;PQR-F1234;null
+Nissan;Maxima;Black;Sedan;2004;Petrol;210;130000;false;Automatic;FWD;KMHDN45D81U123456;28000;Poland;STU-G5678;null
+Toyota;Land Cruiser;Beige;SUV;1996;Diesel;215;250000;true;Automatic;4WD;TOY89012345678901;40000;Poland;VWX-H9012;null
+Honda;Accord;Silver;Sedan;2002;Petrol;160;170000;false;Automatic;FWD;HON67890123456789;25000;Poland;YZ-I2345;null
+Ford;Focus;Grey;Hatchback;2000;Petrol;130;155000;false;Manual;FWD;FOR56789012345678;18000;Poland;ABC-J3456;#032
+BMW;5 Series;Silver;Sedan;2002;Petrol;200;135000;false;Automatic;RWD;3N1AB7AP7HY123456;30000;Germany;none;null
+Honda;Prelude;Blue;Coupe;1995;Petrol;190;170000;true;Manual;FWD;HON56789012345678;20000;Poland;GHI-L5678;#002
+Volkswagen;Golf;Green;Hatchback;2003;Petrol;150;145000;false;Manual;FWD;JT3HT05V3S001337 ;17000;Germany;none;#123
+Chevrolet;Blazer;Red;SUV;1999;Petrol;180;200000;false;Automatic;4WD;CHE45678901234567;22000;Poland;MNO-M6789;null
+Mercedes-Benz;S-Class;Black;Sedan;2005;Petrol;250;120000;false;Automatic;RWD;MER78901234567890;35000;Poland;PQR-N7890;null
+Toyota;Celica;Silver;Coupe;1994;Petrol;200;180000;true;Manual;FWD;TOY45678901234567;19000;Poland;VWX-P2345;null
+Ford;Raptor;Brown;Pick-up;2010;Diesel;250;120000;false;Automatic;AWD;SAJDA15B7MF540372 ;42000;USA;none;null
+McLaren;Senna;orange;Hypercar;2019;Petrol;850;3;true;Automatic;AWD;2C3CDXHG8FH500089;2950000;England;none;null
+BMW;2 Series;Blue;Coupe;2016;Petrol;306;122000;false;Automatic;RWD;WBA12345678907638;120000;USA;none;null
+Mercedes-Benz;CLS;Black;Coupe;2012;Petrol;400;100000;false;Automatic;RWD;WME1234982HD32Y09;80000;Poland;WPR-1223K;#777
+BMW;4 Series;Yellow;Grand Coupe;2014;Diesel;183;260000;false;Manual;AWD;WBA348APO210OI234;73000;Poland;DW-1337G;null
+Mercedes;SL;Silver;Coupe;2005;Petrol;550;70000;false;Automatic;RWD;WME1285OPL9812OA2;165919;Germany;none;null
